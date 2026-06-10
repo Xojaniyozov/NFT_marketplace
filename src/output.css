@@ -187,6 +187,7 @@
       max-width: 96rem;
     }
   }
+<<<<<<< HEAD
   .mt-\[140px\] {
     margin-top: 140px;
   }
@@ -219,6 +220,25 @@
   }
   .w-\[510px\] {
     width: 510px;
+=======
+  .table {
+    display: table;
+  }
+  .h-\[22px\] {
+    height: 22px;
+  }
+  .w-\[60\] {
+    width: 60;
+  }
+  .w-\[60px\] {
+    width: 60px;
+  }
+  .w-\[190\] {
+    width: 190;
+  }
+  .w-\[190px\] {
+    width: 190px;
+>>>>>>> 0bc06fc2c8605df2a20af3efe8ed46d482057153
   }
   .border-collapse {
     border-collapse: collapse;
@@ -226,6 +246,7 @@
   .resize {
     resize: both;
   }
+<<<<<<< HEAD
   .items-center {
     align-items: center;
   }
@@ -234,10 +255,18 @@
   }
   .rounded-\[2px\] {
     border-radius: 2px;
+=======
+  .rounded {
+    border-radius: 0.25rem;
+  }
+  .rounded-\[20p\] {
+    border-radius: 20p;
+>>>>>>> 0bc06fc2c8605df2a20af3efe8ed46d482057153
   }
   .rounded-\[20px\] {
     border-radius: 20px;
   }
+<<<<<<< HEAD
   .rounded-\[25px\] {
     border-radius: 25px;
   }
@@ -250,10 +279,13 @@
   .rounded-\[px\] {
     border-radius: px;
   }
+=======
+>>>>>>> 0bc06fc2c8605df2a20af3efe8ed46d482057153
   .border {
     border-style: var(--tw-border-style);
     border-width: 1px;
   }
+<<<<<<< HEAD
   .bg-black {
     background-color: var(--color-black);
   }
@@ -280,10 +312,24 @@
   .to-\[\#C0B7E8\] {
     --tw-gradient-to: #C0B7E8;
     --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+=======
+  .bg-\[\#A259FF\] {
+    background-color: #A259FF;
+  }
+  .p-\[20px\] {
+    padding: 20px;
+  }
+  .px-\[02px\] {
+    padding-inline: 02px;
+  }
+  .px-\[2px\] {
+    padding-inline: 2px;
+>>>>>>> 0bc06fc2c8605df2a20af3efe8ed46d482057153
   }
   .px-\[3px\] {
     padding-inline: 3px;
   }
+<<<<<<< HEAD
   .px-\[37px\] {
     padding-inline: 37px;
   }
@@ -298,16 +344,50 @@
   }
   .px-\[px\] {
     padding-inline: px;
+=======
+  .px-\[22px\] {
+    padding-inline: 22px;
+  }
+  .px-\[30px\] {
+    padding-inline: 30px;
+  }
+  .px-\[32px\] {
+    padding-inline: 32px;
+  }
+  .px-\[35px\] {
+    padding-inline: 35px;
+  }
+  .px-\[52px\] {
+    padding-inline: 52px;
+  }
+  .px-\[62px\] {
+    padding-inline: 62px;
+  }
+  .py-\[0px\] {
+    padding-block: 0px;
+>>>>>>> 0bc06fc2c8605df2a20af3efe8ed46d482057153
   }
   .py-\[1px\] {
     padding-block: 1px;
   }
+<<<<<<< HEAD
   .py-\[17px\] {
     padding-block: 17px;
+=======
+  .py-\[10\] {
+    padding-block: 10;
+  }
+  .py-\[10px\] {
+    padding-block: 10px;
+  }
+  .py-\[15px\] {
+    padding-block: 15px;
+>>>>>>> 0bc06fc2c8605df2a20af3efe8ed46d482057153
   }
   .py-\[20px\] {
     padding-block: 20px;
   }
+<<<<<<< HEAD
   .text-\[7px\] {
     font-size: 7px;
   }
@@ -354,10 +434,27 @@
   }
   .text-\[\#C0B7E8\] {
     color: #C0B7E8;
+=======
+  .py-\[30\] {
+    padding-block: 30;
+  }
+  .py-\[30px\] {
+    padding-block: 30px;
+  }
+  .py-\[60\] {
+    padding-block: 60;
+  }
+  .py-\[60pc\] {
+    padding-block: 60pc;
+  }
+  .py-\[60px\] {
+    padding-block: 60px;
+>>>>>>> 0bc06fc2c8605df2a20af3efe8ed46d482057153
   }
   .text-\[\#FFFFFF\] {
     color: #FFFFFF;
   }
+<<<<<<< HEAD
   .text-\[\#\] {
     color: #;
   }
@@ -381,6 +478,25 @@
   }
   .text-taupe-950 {
     color: var(--color-taupe-950);
+=======
+  .text-\[\#FFFF\] {
+    color: #FFFF;
+  }
+  .text-\[\#\] {
+    color: #;
+  }
+  .text-\[\#a5a0a0\] {
+    color: #a5a0a0;
+  }
+  .text-\[\#b11e1e\] {
+    color: #b11e1e;
+  }
+  .text-\[\#cc1515\] {
+    color: #cc1515;
+  }
+  .text-\[\#d8d3d3\] {
+    color: #d8d3d3;
+>>>>>>> 0bc06fc2c8605df2a20af3efe8ed46d482057153
   }
   .underline {
     text-decoration-line: underline;
@@ -395,6 +511,7 @@
   inherits: false;
   initial-value: solid;
 }
+<<<<<<< HEAD
 @property --tw-gradient-position {
   syntax: "*";
   inherits: false;
@@ -441,6 +558,8 @@
   syntax: "*";
   inherits: false;
 }
+=======
+>>>>>>> 0bc06fc2c8605df2a20af3efe8ed46d482057153
 @property --tw-outline-style {
   syntax: "*";
   inherits: false;
@@ -450,6 +569,7 @@
   @supports ((-webkit-hyphens: none) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color:rgb(from red r g b)))) {
     *, ::before, ::after, ::backdrop {
       --tw-border-style: solid;
+<<<<<<< HEAD
       --tw-gradient-position: initial;
       --tw-gradient-from: #0000;
       --tw-gradient-via: #0000;
@@ -460,6 +580,8 @@
       --tw-gradient-via-position: 50%;
       --tw-gradient-to-position: 100%;
       --tw-font-weight: initial;
+=======
+>>>>>>> 0bc06fc2c8605df2a20af3efe8ed46d482057153
       --tw-outline-style: solid;
     }
   }
